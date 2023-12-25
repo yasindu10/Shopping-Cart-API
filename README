@@ -1,0 +1,10 @@
+#### Online Shopping Cart API (nodeJs)
+
+#### REGISTER
+
+- User models
+  - user name
+  - email
+  - password
+  - profile pic
+  - role
