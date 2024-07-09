@@ -1,1 +1,29 @@
+# Online Shopping Cart API
 
+The Online Shopping Cart API allows users to manage shopping carts, apply sorting, numeric filters, and selects on products. It also includes authentication and authorization for secure access.
+
+## Features
+
+- **Product Management**: Add, update, and remove products.
+- **Cart Management**: Add, update, and remove items in the shopping cart.
+- **Sorting**: Sort products based on different fields.
+- **Filters**: Apply numeric filters on product attributes.
+- **Selects**: Select specific fields to return in the response.
+- **Authentication**: User registration and login.
+- **Authorization**: Role-based access control.
+
+## Prerequisites
+
+- Node.js
+- MongoDB
+- PayPal SDK
+
+## Getting Started
+
+### Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/shopping-cart-api.git
+cd shopping-cart-api
